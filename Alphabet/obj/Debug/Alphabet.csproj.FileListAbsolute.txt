@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\test\WizKids\Alphabet\bin\Debug\Alphabet.exe.config
+C:\Users\Lenovo\Desktop\test\WizKids\Alphabet\bin\Debug\Alphabet.exe
+C:\Users\Lenovo\Desktop\test\WizKids\Alphabet\bin\Debug\Alphabet.pdb
+C:\Users\Lenovo\Desktop\test\WizKids\Alphabet\obj\Debug\Alphabet.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\test\WizKids\Alphabet\obj\Debug\Alphabet.exe
+C:\Users\Lenovo\Desktop\test\WizKids\Alphabet\obj\Debug\Alphabet.pdb
